@@ -99,4 +99,5 @@ helpful to plot points/lines in defined colors with legends. We use `matplotlib`
 
 ------------------------------------------------------------------------
 # Notebook:
-- We provide the python notebook in `draw_3d_examples.ipynb` to use the render.
+- We provide the python notebook in `draw_3d_examples.ipynb` to use the 3d render 
+and `draw_2d_examples.ipynb` to use the 2d drawer.
