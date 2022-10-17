@@ -6,9 +6,9 @@ import numpy as np
 import torch
 import torch.nn as nn
 
+from helper.utils import torch_to_np
 from .transformation import normalize
 from .ray import sphere_ray_intersection
-from helper.utils import torch_to_np
 
 
 def uv_to_sphere_point(u, v, radius, origin=(0, 0, 0)):
